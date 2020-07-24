@@ -12,7 +12,7 @@ This study also appealed to me because one reason I love running is how it bring
 
 *Question*: Do young women run as fast as middle-aged men in road races?
 
-*The Data* My big question of gender parity had to be narrowed so that I could conduct my research in a manageable way.  I used the race results for the 2019 New York City Marathon and the 2019 5th Avenue Mile from the New York Road Runners website.  The data included the name, age, gender, and finish time of each person.  I was able to select age groups in 5 year increments: Women 25-29, Women 30-34, Men 40-44, Men 45-49, Men 50-54, Men 55-59, Men 60-64.  Because my initial observation was based on my experience seeing many men in their 40s, I primarily focused on comparing the Men 40-44 and Men 45-49 to the women.  Using these two races as my samples, I hoped to make conclusions about the population of New York Road Runners race participants in general, regardless of year or distance.
+*The Data*: My big question of gender parity had to be narrowed so that I could conduct my research in a manageable way.  I used the race results for the 2019 New York City Marathon and the 2019 5th Avenue Mile from the New York Road Runners website.  The data included the name, age, gender, and finish time of each person.  I was able to select age groups in 5 year increments: Women 25-29, Women 30-34, Men 40-44, Men 45-49, Men 50-54, Men 55-59, Men 60-64.  Because my initial observation was based on my experience seeing many men in their 40s, I primarily focused on comparing the Men 40-44 and Men 45-49 to the women.  Using these two races as my samples, I hoped to make conclusions about the population of New York Road Runners race participants in general, regardless of year or distance.
 
 
 *Refined Research Question*: Are the mean New York Road Runners race times the same for Women runners ages 25-34 and Men runners ages 40-49? 
@@ -22,3 +22,9 @@ This study also appealed to me because one reason I love running is how it bring
 *Data Journey*: To obtain the data, I used Selenium to scrape the race results from NYRR.org, parsed the HTML through BeautifulSoup, and then stored the results in a MongoDB container.  Then, I moved all of the data to a Pandas Dataframe.
 
 *Refinement*: I removed all race times that were slower than an average of 12 minutes per mile, as that is by some standards the cutoff for what is considered running instead of jogging.  The heart of my big picture question seeks to compared he average capabilities of these two demographics, so I wanted to filter the data even further, keeping only people who are competitive, meaning someone who keeps trying to run their best race, regardless of how fast they are.  I made a new dataframe that included only runners who ran both races, thinking that a person who did more than one race in a year would be more serious about pushing themselves to run their best.
+
+## Explortatory Data Analysis
+
+<imag
+
+
