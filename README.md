@@ -1,5 +1,7 @@
 
-## Running Rivalries: Insight into the Relative Competitiveness of Different Age-Gender Groups in the New York City Marathon by Anne Barry
+# Running Rivalries
+
+## Insight into the Relative Competitiveness of Different Age-Gender Groups in the New York City Marathon
 
 <img src="img/img1.png" width="500">
 
