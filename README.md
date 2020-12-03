@@ -36,7 +36,7 @@ The histograms (with means graphed with the dashed line) clearly showed that the
 ![](img/img3.png)
 
 ## Welch's T-Test:
-For each of the male age groups, I ran a two tailed Z-test for the difference of two means with alpha = .05 against the data for the women.  Percent difference is in comparison to the women's group.  For example, a positive 6% difference means that that group's time was 94% of the women's time.  The null hypothesis in each case was that the mean time for the populations is the same.  The results are shown below.
+For each of the male age groups, I ran a two tailed Z-test for the difference of two means with alpha = .05 against the data for the women.  Percent difference is the women's time as a percent of the row's group's time.  For example, a positive 6% difference means that that group's time was 106% of the that group's time.  The null hypothesis in each case was that the mean time for the populations is the same.  The results are shown below.
 
 ![](img/img4.png)
 
