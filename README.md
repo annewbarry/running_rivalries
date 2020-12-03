@@ -40,7 +40,9 @@ For each of the male age groups, I ran a two tailed Z-test for the difference of
 
 ![](img/img4.png)
 
-Because I used a two-tailed test with alpha=.05, in order to reject the null hypothesis, the p-value had to be less than .025, which it was in each case.  This means that in each pairing, the population means differ.  In most cases this meant the population means for the men are faster than those of women.  In the matchup between Men 60-64 and the women in the marathon, women were slightly faster.  When comparing Men 40-49 to the women, women were closer to the men in the marathon than in the mile (6% slower and 11.8% slower, respectively), which is what I expected.  The women got slightly more competitive with the men when I narrowed the results to just people who had competed in both races, but not as much as I expected.
+Because I used a two-tailed test with alpha=.05, in order to reject the null hypothesis, the p-value had to be less than .025, which it was in each case.  This means that in each pairing, the population means differ.  In most cases this meant the population means for the men are faster than those of women.  In the matchup between Men 60-64 and the women in the marathon, women were slightly faster.  When comparing Men 40-49 to the women, women were closer to the men in the marathon than in the mile (6% slower and 11.8% slower, respectively), which is what I expected.  
+
+The "Repeats" groups are composed of people who ran both races. The women got slightly more competitive with the men when I narrowed the results to just people who had competed in both races, but not as much as I expected.
 
 An interesting thing to note is that there were nearly 1.6x as many men 40-49 than women in the marathon and 2x as many women as men in the mile, which opens the question of why relatively more women sign up for the mile than for the marathon and how that could affect the results.
 
@@ -49,6 +51,6 @@ An interesting thing to note is that there were nearly 1.6x as many men 40-49 th
 The population mean finish times for women in New York Road Runners races are slower than those of men ages 40-59, but faster than those for men 60-64.  This study can be improved by taking data from other distances as well.
 
 ## Questions and Further Study
-My study aimed to adress the abilities of men and women but only could measure performance, specifically the performance of people who are interested in road races.  Competitive spirit contributes to performance and it was impossible to control for in my project.  I would like to study what motivates men and women to run, as I believe I would find competitive people in both genders and also find that women are more likely to sign up for races even if just for the social and fitness aspect, which brings the average time down.
+My study aimed to adress the abilities of men and women but only could measure performance, specifically the performance of people who are interested in road races.  Competitive spirit contributes to performance and it was impossible to control for in my project.  I would like to study what motivates men and women to run, as I believe I would find competitive people in both genders and also find that women are more likely to sign up for races even if just for the social and fitness aspect, which increases the average time.
 
 With any study like this I implpore the reader to take this data just for what they are: averages.  Your next training partner could be someone from a demographic you'd never expect.  The running world is one of cold, hard numbers and it's wonderful that we have a sport where an individual's results can speak for themselves.
