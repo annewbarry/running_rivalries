@@ -7,7 +7,7 @@
 
 ## Abstract: 
 
-In this project I explored the idea of whether middle aged men and young women perform similarly in running races.  By scraping results data from the New York Road Runners website for the 2019 New York City Marathon and 2019 5th Avenue Mile, I used a t-test to compare the mean times for Women ages 30-34 to those of men in age groups 40-49, 50-54, 55-59, and 60-64, finding that the mean time for men was faster except in the case of the 60-64 age group.
+In this project I explored the idea of whether middle aged men and young women perform similarly in running races.  By scraping results data from the New York Road Runners website for the 2019 New York City Marathon and 2019 5th Avenue Mile, I used a t-test to compare the mean times for Women ages 25-34 to those of men in age groups 40-49, 50-54, 55-59, and 60-64, finding that the mean time for men was faster except in the case of the 60-64 age group.
 
 
 ## Background and Motivation
